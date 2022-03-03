@@ -192,6 +192,7 @@ p{
     .navlinks a {
         display: block;
         margin-top: 10px;
+        background-color: transparent;
         text-align: center;
     }
     .navlinks a:hover{
