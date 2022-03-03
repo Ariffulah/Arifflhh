@@ -175,6 +175,8 @@ p{
         background-image: url(../img/img.svg);
         background-size: cover;
         background-repeat: no-repeat;
+        width:70%;
+        height:100vh;
     }
     .row-hero .col2 img{
 
