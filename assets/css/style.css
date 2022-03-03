@@ -172,7 +172,7 @@ p{
     } */
     body {
         /* position: absolute; */
-        background-image: url(../img/profil.png);
+        background-image: url(../img/Group68.svg);
         background-size: cover;
         background-repeat: no-repeat;
         width:50%;
@@ -194,6 +194,7 @@ p{
         margin-top: 10px;
         background-color: transparent;
         text-align: center;
+        color: white;
     }
     .navlinks a:hover{
         background-color: #8BD19E;
